@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
-import { Rocket, Sparkles, Zap } from "lucide-react";
+import { Zap } from "lucide-react";
 
 // Floating 3D Shape Component
 const FloatingShape = ({
